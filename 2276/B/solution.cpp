@@ -1,19 +1,19 @@
 #include <iostream>
 
-using namespace std;
-
 /*
 - Problem: Replace and Compress [2276B]
 - URL: https://codeforces.com/contest/2276/problem/B
  */
 
-int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-
+void solve() {
     // Write your solution here
-    	
-        
+}
+
+int main() {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+
+    solve();
 
     return 0;
 }
